@@ -53,7 +53,7 @@ This is the story of how I built my expertise from the ground up. These projects
 | **Cookie Consent Modal** | A project focused on creating and managing modal dialogs in the DOM. | [Live Demo](LINK_TO_DEMO) | [Code](LINK_TO_CODE) |
 | **Guilt-Tripping Modal** | A humorous take on a modal, practicing advanced event handling. | [Live Demo](LINK_TO_DEMO) | [Code](LINK_TO_CODE) |
 | **Quotable Emotions**| Select an emotion to display a relevant quote, demonstrating DOM manipulation and event handling. | [Live Demo](https://amna-iqbal.github.io/Quotable-Emotions/) | [Code](https://github.com/Amna-Iqbal/Quotable-Emotions) |
-| **Dice Game** | An interactive game to practice JS logic and random number generation. | [Live Demo](LINK_TO_DEMO) | [Code](LINK_TO_CODE) |
+| **Dice Game** | An interactive game to practice JS logic and random number generation. | [Live Demo](https://amna-iqbal.github.io/Dice-game/) | [Code](https://github.com/Amna-Iqbal/Dice-game) |
 | **Drum Kit** | A virtual drum kit that responds to key presses, mastering audio APIs. | [Live Demo](https://amna-iqbal.github.io/Drum-Kit/) | [Code](https://github.com/Amna-Iqbal/Drum-Kit) |
 | **Simon Says Game** | A jQuery memory game demonstrating complex logic and sequence handling. | [Live Demo](https://amna-iqbal.github.io/Simon-Says-Game/) | [Code](https://github.com/Amna-Iqbal/Simon-Says-Game) |
 | **War Card Game** | A classic card game built to practice game logic and state man

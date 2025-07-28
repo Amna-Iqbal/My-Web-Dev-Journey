@@ -2,9 +2,6 @@
 
 Welcome! This repository is a curated showcase of over 25 web development projects that track my growth from beginner to full-stack developer. From single-page UI components to full-fledged community platforms, each project reflects a key milestone in my learning journey.
 
-**How to Navigate This Portfolio:**
-This portfolio is organized to show a clear progression of my skills. It starts with my multi-featured applications and moves down to my earliest foundational projects. **As you scroll down, you are essentially traveling back in time through my learning journey.**
-
 Each project includes a source code link and, where possible, a live demo or visual preview.
 
 ## Proud Creations
